@@ -7,24 +7,24 @@ page-layout: full
 
 ::: {.perfil-foto}
 
-![](images/profile.png){fig-alt="Fotografía de perfil"}
+![](images/profile.jpg){fig-alt="Fotografía de perfil"}
 
 :::
 
 ::: {.perfil-info}
 
-# Nombre Apellido
+# Arianna Blanco
 
-## Estudiante de Bachillerato en Biología
+## Estudiante de Bachillerato en Biología Tropical
 
 Escuela de Ciencias Biológicas  
 Universidad Nacional, Costa Rica
 
 ::: {.enlaces-perfil}
 
-[<i class="bi bi-envelope-fill"></i> Correo](mailto:nombre.apellido@est.una.ac.cr)
+[<i class="bi bi-envelope-fill"></i> Correo](mailto:arianna.blanco.fuentes@est.una.ac.cr)
 
-[<i class="bi bi-github"></i> GitHub](https://github.com/usuario)
+[<i class="bi bi-github"></i> GitHub](https://github.com/CapybaraGP)
 
 [<i class="bi bi-person-badge-fill"></i> ORCID](https://orcid.org/0000-0000-0000-0000)
 
@@ -41,7 +41,7 @@ Universidad Nacional, Costa Rica
 ## Biografía
 
 Escriba un breve párrafo (100–150 palabras) donde describa quién es, su formación académica, sus principales intereses científicos y sus metas profesionales.
-
+Soy estudiante de Biología con un interés particular en la fauna silvestre y la investigación científica. Me apasionan los capibaras y los micromamíferos, grupos que despiertan mi curiosidad por su comportamiento, ecología, distribución
 ---
 
 ## Áreas de interés
@@ -49,7 +49,7 @@ Escriba un breve párrafo (100–150 palabras) donde describa quién es, su form
 - Ecología
 - Conservación
 - Biogeografía
-- Herpetología
+- Mastozoología
 - Ciencia de datos
 
 ---
@@ -61,6 +61,8 @@ Escriba un breve párrafo (100–150 palabras) donde describa quién es, su form
 - Git y GitHub
 - QGIS
 - Microsoft Office
+- Histología
+
 
 ---
 
@@ -70,4 +72,4 @@ Escriba un breve párrafo (100–150 palabras) donde describa quién es, su form
 
 Bachillerato en Biología
 
-*Año de ingreso – Presente*
+*2020 – Presente*
