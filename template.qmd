@@ -1,0 +1,19 @@
+---
+title: "template"
+author: "Arianna Blanco"
+editor: visual
+---
+
+## Introduccion
+
+## Objetivo
+
+## Metodologia
+
+## Resultados
+
+## Interpretacion
+
+## Conclusiones
+
+## Referencias

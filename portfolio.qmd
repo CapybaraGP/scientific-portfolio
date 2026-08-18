@@ -23,16 +23,13 @@ Introducción al uso del portafolio digital académico y documentación de una p
 ::: portfolio-item
 ### 📚 Gestión de referencias bibliográficas con Zotero
 
-*Disponible próximamente.*
-
 En esta práctica se documentará la creación de una biblioteca bibliográfica utilizando Zotero y su integración con Microsoft Word.
+
+[Ver práctica →](zootero.qmd)
 :::
 
 ::: portfolio-item
-### 📊 Próximas prácticas
 
-Las siguientes prácticas y proyectos se incorporarán conforme avance el curso.
-:::
 
 ------------------------------------------------------------------------
 
