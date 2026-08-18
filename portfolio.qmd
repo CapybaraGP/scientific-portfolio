@@ -30,7 +30,6 @@ En esta práctica se documentará la creación de una biblioteca bibliográfica 
 
 ::: portfolio-item
 
-
 ------------------------------------------------------------------------
 
 ## Objetivo del portafolio
@@ -38,3 +37,4 @@ En esta práctica se documentará la creación de una biblioteca bibliográfica 
 Más que una colección de tareas, este portafolio constituye un registro organizado del aprendizaje, donde se documentan procedimientos, resultados y reflexiones desarrolladas a lo largo del curso.
 
 Al finalizar el semestre este sitio mostrará la evolución de mis competencias en análisis de datos ecológicos, programación en R y comunicación científica.
+:::
