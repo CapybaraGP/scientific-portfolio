@@ -41,7 +41,8 @@ Universidad Nacional, Costa Rica
 ## Biografía
 
 Escriba un breve párrafo (100–150 palabras) donde describa quién es, su formación académica, sus principales intereses científicos y sus metas profesionales.
-Soy estudiante de Biología con un interés particular en la fauna silvestre y la investigación científica. Me apasionan los capibaras y los micromamíferos, grupos que despiertan mi curiosidad por su comportamiento, ecología, distribución
+Soy estudiante de Biología con un interés particular en la fauna silvestre y la investigación científica. Me apasionan los capibaras y los micromamíferos, grupos que despiertan mi curiosidad por su comportamiento, distribución, diversidad y ecología. Trabajo en un libro sobre micromamíferos, proyecto que me permite profundizar en la diversidad de estas especies y ampliar mis conocimientos sobre ellas.
+También tengo un fuerte interés por la histología, área que me permite estudiar con detalle las estructuras y características microscópicas de los organismos. Me gusta combinar diferentes enfoques para comprender mejor a las especies, desde el análisis de datos ecológicos y poblacionales hasta el estudio de estructuras anatómicas a nivel microscópico. Disfruto los proyectos que me permiten investigar organismos poco conocidos y descubrir aspectos interesantes de su biología.
 ---
 
 ## Áreas de interés
