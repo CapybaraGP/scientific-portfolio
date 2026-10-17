@@ -137,7 +137,7 @@
     "href": "portfolio.html#prácticas-de-laboratorio",
     "title": "Portafolio académico",
     "section": "Prácticas de laboratorio",
-    "text": "Prácticas de laboratorio\n\n📄 Práctica de ejemplo\nIntroducción al uso del portafolio digital académico y documentación de una práctica mediante Quarto.\nVer práctica →\n\n\n📚 Gestión de referencias bibliográficas con Zotero\nEn esta práctica se documentará la creación de una biblioteca bibliográfica utilizando Zotero y su integración con Microsoft Word.\nVer práctica →\n\n\n\n\nObjetivo del portafolio\nMás que una colección de tareas, este portafolio constituye un registro organizado del aprendizaje, donde se documentan procedimientos, resultados y reflexiones desarrolladas a lo largo del curso.\nAl finalizar el semestre este sitio mostrará la evolución de mis competencias en análisis de datos ecológicos, programación en R y comunicación científica."
+    "text": "Prácticas de laboratorio\n\n📄 Práctica de ejemplo\nIntroducción al uso del portafolio digital académico y documentación de una práctica mediante Quarto.\nVer práctica →\n\n\n📚 Gestión de referencias bibliográficas con Zotero\nEn esta práctica se documentará la creación de una biblioteca bibliográfica utilizando Zotero y su integración con Microsoft Word.\nVer práctica →"
   },
   {
     "objectID": "portfolio.html#objetivo-del-portafolio",
@@ -236,5 +236,75 @@
     "title": "template",
     "section": "Referencias",
     "text": "Referencias"
+  },
+  {
+    "objectID": "portfolio.html#tidy-data",
+    "href": "portfolio.html#tidy-data",
+    "title": "Portafolio académico",
+    "section": "Tidy Data",
+    "text": "Tidy Data\nAprender a importar, ordenar, limpiar y transformar datos en R mediante funciones de tidyverse, para organizar información climática y registros de especies, generar gráficos y tablas, y guardar los datos procesados.\nVer práctica -&gt;"
+  },
+  {
+    "objectID": "Tidy_data.html",
+    "href": "Tidy_data.html",
+    "title": "Tidy_data",
+    "section": "",
+    "text": "Aprender a importar, ordenar, limpiar y transformar datos en R mediante funciones de tidyverse, para organizar información climática y registros de especies, generar gráficos y tablas, y guardar los datos procesados."
+  },
+  {
+    "objectID": "Tidy_data.html#objetivo",
+    "href": "Tidy_data.html#objetivo",
+    "title": "Tidy_data",
+    "section": "",
+    "text": "Aprender a importar, ordenar, limpiar y transformar datos en R mediante funciones de tidyverse, para organizar información climática y registros de especies, generar gráficos y tablas, y guardar los datos procesados."
+  },
+  {
+    "objectID": "Tidy_data.html#materiales-y-herramientas",
+    "href": "Tidy_data.html#materiales-y-herramientas",
+    "title": "Tidy_data",
+    "section": "Materiales y herramientas",
+    "text": "Materiales y herramientas\n\nRStudio, lenguaje R.\nPaquetes tidyverse, gt y lobstr.\nArchivos CSV con datos climáticos y observaciones de ungulados.\nFunciones para manipular datos, generar visualizaciones y exportar archivos RDS y TIFF."
+  },
+  {
+    "objectID": "Tidy_data.html#procedimiento",
+    "href": "Tidy_data.html#procedimiento",
+    "title": "Tidy_data",
+    "section": "Procedimiento",
+    "text": "Procedimiento\nSe importaron los archivos CSV y se revisó su estructura. Después, se reorganizaron los datos con pivot_longer() y pivot_wider(), se corrigieron nombres de columnas y variables, se crearon fechas con unite() y as_date(), y se separaron valores con separate(). Posteriormente, se convirtieron variables a formato numérico, se dividieron los datos en listas y se guardaron en archivos RDS. Finalmente, se elaboraron gráficos con ggplot2 y tablas con gt para resumir y comparar los resultados."
+  },
+  {
+    "objectID": "Tidy_data.html#resultados",
+    "href": "Tidy_data.html#resultados",
+    "title": "Tidy_data",
+    "section": "Resultados",
+    "text": "Resultados\nSe obtuvieron conjuntos de datos ordenados, con fechas, variables climáticas y nombres científicos corregidos. Además, se generaron gráficos para comparar temperaturas y frecuencias de observaciones por especie, tablas de resumen y archivos RDS con información separada en listas para facilitar su reutilización."
+  },
+  {
+    "objectID": "Tidy_data.html#figuras-y-tablas",
+    "href": "Tidy_data.html#figuras-y-tablas",
+    "title": "Tidy_data",
+    "section": "Figuras y tablas",
+    "text": "Figuras y tablas\n\n\n\nFigura 1. Imagen de distribuciones"
+  },
+  {
+    "objectID": "Tidy_data.html#reflexión-final",
+    "href": "Tidy_data.html#reflexión-final",
+    "title": "Tidy_data",
+    "section": "Reflexión final",
+    "text": "Reflexión final\nAprendí a limpiar, transformar y organizar datos con R, separar información taxonómica y generar gráficos y tablas. Una dificultad fue corregir formatos inconsistentes, convertir variables a valores numéricos y estructurar los datos adecuadamente. En el estudio de roedores, estas herramientas permitirían organizar registros de especies, analizar su distribución y abundancia, y relacionar las observaciones con variables ambientales como temperatura, precipitación y elevación."
+  },
+  {
+    "objectID": "Tidy_data.html#conclusiones",
+    "href": "Tidy_data.html#conclusiones",
+    "title": "Tidy_data",
+    "section": "Conclusiones",
+    "text": "Conclusiones\nEl uso de R permitió transformar datos desordenados en conjuntos estructurados, facilitando su análisis y representación gráfica. Las funciones de tidyverse simplificaron la limpieza y reorganización de los datos, mientras que ggplot2 y gt permitieron presentar los resultados de manera clara. Estas herramientas son útiles en ecología para estudiar patrones de distribución y abundancia de especies y explorar su relación con las condiciones ambientales."
+  },
+  {
+    "objectID": "Tidy_data.html#referencias-bibliográficas",
+    "href": "Tidy_data.html#referencias-bibliográficas",
+    "title": "Tidy_data",
+    "section": "Referencias bibliográficas",
+    "text": "Referencias bibliográficas\n\nPosit. (s. f.). Tidyverse: Easily install and load the tidyverse. https://www.tidyverse.org/⁠\nTidyverse. (s. f.). Pivot data from wide to long: pivot_longer(). GitHub. Consultar documentación⁠.\nTidyverse. (s. f.). Pivot data from long to wide: pivot_wider(). https://tidyr.tidyverse.org/reference/pivot_wider.html⁠\nWickham, H., & Bryan, J. (s. f.). Save a ggplot (or other grid object) with sensible defaults: ggsave(). ggplot2. https://ggplot2.tidyverse.org/reference/ggsave.html⁠"
   }
 ]

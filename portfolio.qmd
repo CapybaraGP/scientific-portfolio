@@ -28,6 +28,14 @@ En esta práctica se documentará la creación de una biblioteca bibliográfica 
 [Ver práctica →](zootero.qmd)
 :::
 
+::: {#Tidy_data}
+## Tidy Data
+
+Aprender a importar, ordenar, limpiar y transformar datos en R mediante funciones de tidyverse, para organizar información climática y registros de especies, generar gráficos y tablas, y guardar los datos procesados.
+
+[Ver práctica -\>](Tidy_data.qmd)
+:::
+
 ::: portfolio-item
 
 ------------------------------------------------------------------------
